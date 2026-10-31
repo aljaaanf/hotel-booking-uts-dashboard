@@ -1,8 +1,8 @@
 # Hotel Booking Demand – Interactive Dashboard
 
 ## Identitas
-- Nama: [Isi nama lengkap]
-- NPM: [Isi NPM]
+- Nama: AL ZAHRA NUR FEBRIAN
+- NPM: 241051006
 - Mata Kuliah: Visualisasi Data
 - Dosen: Muryan Awaludin, S.Kom., M.Kom.
 
